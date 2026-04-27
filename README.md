@@ -36,7 +36,7 @@ Motivated to continue building practical experience in secure architecture, risk
 
 | Project | Description |
 |--------|------------|
-| SYSTEM OVERVIEW AND BOUNDARY DEFINITION |  <a href="https://github.com/edwardchibuzo/Architecture_Diagram.png">The Definition of Bundle</a> |
+| SYSTEM OVERVIEW AND BOUNDARY DEFINITION |  <a href="https://github.com/OliviaOtteh/Architecture_diagram.png">The Definition of Nexus</a> |
 | Enterprise Risk Register | Risk identification, scoring, tracking, and executive reporting dashboard |
 | FedRAMP Moderate Implementation | Control mapping and compliance alignment for cloud systems |
 | Continuous Monitoring Program | POA&M tracking, vulnerability management, and audit readiness |
