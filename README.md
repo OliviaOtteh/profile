@@ -32,7 +32,7 @@ Motivated to continue building practical experience in secure architecture, risk
 
 ## PROJECT
 
-## Bundle EHR GRC Project Portfolio
+## NEXUS EHR GRC Project Portfolio
 
 | Project | Description |
 |--------|------------|
